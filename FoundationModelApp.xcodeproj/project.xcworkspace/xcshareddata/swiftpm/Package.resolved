@@ -1,0 +1,42 @@
+{
+  "originHash" : "bf351ecfe455189253ddf52e7bc82c9c77e2084b85524b9e929b82d71163ff7b",
+  "pins" : [
+    {
+      "identity" : "eventsource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattt/eventsource.git",
+      "state" : {
+        "revision" : "a2965424a4babeb0c8e4b5ec9708c3939bc52449",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "mcp-swift-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0Itsuki0/mcp-swift-sdk",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bf8929b43852d4e5dc659310d0978e794da81b20"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "ce592ae52f982c847a4efc0dd881cc9eb32d29f2",
+        "version" : "1.6.4"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system.git",
+      "state" : {
+        "revision" : "395a77f0aa927f0ff73941d7ac35f2b46d47c9db",
+        "version" : "1.6.3"
+      }
+    }
+  ],
+  "version" : 3
+}
