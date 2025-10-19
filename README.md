@@ -14,7 +14,7 @@ Support Apps for FoundationModels just like Apps for ChatGPT.
 We are able to use the same idea to create that same Apps SDK for any Agent/LLMs, on any Chat-based Service (Web or Mobile)!
 
 
-For more details, please refer to my blog [Swift: Apps SDK for Foundation Models just like Apps for ChatGPT]()
+For more details, please refer to my blog [Swift: Apps SDK for Foundation Models just like Apps for ChatGPT](https://medium.com/@itsuki.enjoy/swift-apps-sdk-for-foundation-models-just-like-apps-for-chatgpt-9188c03221dd)
 
 
 ![](./demo.gif)
